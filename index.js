@@ -1,3 +1,0 @@
-let weather 
-let 
-switch 
